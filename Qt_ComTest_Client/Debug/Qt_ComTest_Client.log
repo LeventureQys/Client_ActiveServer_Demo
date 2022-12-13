@@ -1,0 +1,6 @@
+﻿  Qt_ComTest_Client.cpp
+d:\workshop\current\qt_comtest_client\qt_comtest_client\AxWidget_Manager.h(11): warning C4584: “AxWidget_Manager”: 基类“QObject”已是“QAxWidget”的基类
+  D:\tool\5.10.1\msvc2015\include\QtCore/qcoreevent.h(347): note: 参见“QObject”的声明
+  D:\tool\5.10.1\msvc2015\include\ActiveQt\qaxwidget.h(65): note: 参见“QAxWidget”的声明
+  Qt_ComTest_Client.vcxproj -> D:\Workshop\current\Qt_ComTest_Client\Debug\Qt_ComTest_Client.exe
+  Qt_ComTest_Client.vcxproj -> D:\Workshop\current\Qt_ComTest_Client\Debug\Qt_ComTest_Client.pdb (Full PDB)
